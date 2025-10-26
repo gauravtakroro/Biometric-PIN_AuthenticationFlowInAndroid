@@ -54,7 +54,6 @@ dependencies {
     implementation(libs.androidx.compose.material3)
     implementation(libs.androidx.appcompat)
     testImplementation(libs.junit)
-    implementation("androidx.security:security-crypto:1.1.0-alpha07")
 // Or the latest compatible version if not migrating
     implementation("androidx.biometric:biometric:1.2.0-alpha05")
     androidTestImplementation(libs.androidx.junit)
