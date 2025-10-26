@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerPrintAuthentication</string>
+    <string name="start_authentication_using_finger_print">Start Authentication Flow (Using Finger Print)</string>
+    <string name="start_authentication_using_finger_print_password_pin">Start Authentication Flow(Using Finger Print/Password/Pin)</string>
+</resources>
